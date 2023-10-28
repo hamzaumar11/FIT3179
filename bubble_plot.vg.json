@@ -5,7 +5,7 @@
   "title": ["Relationship between trade and GDP per capita (2010-2018)",
   "__________________________________________________________________"],
   "data": {
-    "url": "https://raw.githubusercontent.com/hamzaumar994/Assignment_2/main/data/cleaned%20tradegdp1.csv"
+    "url": "https://raw.githubusercontent.com/hamzaumar11/FIT3179/main/cleaned%20tradegdp1.csv"
   },
   "params": [
     {
@@ -225,6 +225,6 @@
         "fontWeight": "bold",
         "font": "Avenir"
       },
-    "background": "papayawhip"
+    "background": "#E0E0E0"
   }
 }
