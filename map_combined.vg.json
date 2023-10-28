@@ -11,7 +11,7 @@
       "height": 460,
       "width": 750,
       "data": {
-        "url": "https://raw.githubusercontent.com/hamzaumar994/Assignment_2/main/ne_110m_admin_0_countries.topojson",
+        "url": "https://raw.githubusercontent.com/hamzaumar11/FIT3179/main/ne_110m_admin_0_countries.topojson",
         "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
@@ -22,7 +22,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/hamzaumar994/Assignment_2/main/data/gdp.csv"
+              "url": "https://raw.githubusercontent.com/hamzaumar11/FIT3179/main/gdp.csv"
             },
             "key": "Country",
             "fields": [
@@ -141,7 +141,7 @@
             "offset": 10
           },
           "data": {
-            "url": "https://raw.githubusercontent.com/hamzaumar994/Assignment_2/main/data/gdp.csv"
+            "url": "https://raw.githubusercontent.com/hamzaumar11/FIT3179/main/gdp.csv"
           },
           "transform": [
             {
@@ -189,7 +189,7 @@
           "height": 140,
           "width": 380,
           "data": {
-            "url": "https://raw.githubusercontent.com/hamzaumar994/Assignment_2/main/data/unemployment.csv"
+            "url": "https://raw.githubusercontent.com/hamzaumar11/FIT3179/main/unemployment.csv"
           },
           "title": {
             "text": [
@@ -298,6 +298,7 @@
       "fontWeight": "bold",
       "font": "avenir"
     },
-    "background": "papayawhip"
+    "background": "#E0E0E0"
   }
 }
+
