@@ -8,7 +8,7 @@
     "width":800,
     "height":500,
     "data": {
-      "url": "https://raw.githubusercontent.com/hamzaumar994/Assignment_2/main/data/unemploymentrank.csv"
+      "url": "https://raw.githubusercontent.com/hamzaumar11/FIT3179/main/unemploymentrank.csv"
     },
     "layer": [
     {
@@ -91,6 +91,7 @@
       "fontWeight": "bold",
       "font": "avenir"
     },
-    "background": "papayawhip"
+    "background": "#E0E0E0"
   }
 }
+
