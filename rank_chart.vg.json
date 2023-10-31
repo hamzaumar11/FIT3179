@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "title": {
           "text": [
-            "Top 10 Countries for with the highest Unemployment rate for 2010-2020", "_______________________________________________________________________"
+            "Rank of Countries with the highest Unemployment rate for 2010-2020", "_______________________________________________________________________"
           ]
         },
     "width":800,
@@ -55,25 +55,25 @@
     }],
     "config": {
     "axis": {
-      "labelFont": "Avenir",
-      "titleFont": "Avenir",
+      "labelFont": "Arial",
+      "titleFont": "Arial",
       "labelFontSize": 13,
       "titleFontSize": 16
     },
     "header": {
-      "labelFont": "Avenir",
-      "titleFont": "Avenir",
+      "labelFont": "Arial",
+      "titleFont": "Arial",
       "labelFontSize": 12
     },
     "mark": {
-      "font": "Avenir",
+      "font": "Arial",
       "fontSize": 12
     },
     "legend": {
-      "labelFont": "Avenir"
+      "labelFont": "Arial"
     },
     "title": {
-      "font": "Avenir",
+      "font": "Arial",
       "fontSize": 19,
       "color": "#000a08"
     },
@@ -89,7 +89,7 @@
       "baseline": "bottom",
       "align": "center",
       "fontWeight": "bold",
-      "font": "avenir"
+      "font": "Arial"
     },
     "background": "#E0E0E0"
   }
