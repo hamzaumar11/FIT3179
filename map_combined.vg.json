@@ -193,7 +193,7 @@
           },
           "title": {
             "text": [
-              "Unemployment rate (% of total labour force)", "___________________________________________"
+              "Unemployment rate (%)", "___________________________________________"
             ]
           },
           "encoding": {
@@ -262,25 +262,25 @@
   ],
   "config": {
     "axis": {
-      "labelFont": "Avenir",
-      "titleFont": "Avenir",
+      "labelFont": "Ariel",
+      "titleFont": "Ariel",
       "labelFontSize": 12,
       "titleFontSize": 13
     },
     "header": {
-      "labelFont": "Avenir",
-      "titleFont": "Avenir",
+      "labelFont": "Ariel",
+      "titleFont": "Ariel",
       "labelFontSize": 12
     },
     "mark": {
-      "font": "Avenir",
+      "font": "Ariel",
       "fontSize": 12
     },
     "legend": {
-      "labelFont": "Avenir"
+      "labelFont": "Ariel"
     },
     "title": {
-      "font": "Avenir",
+      "font": "Ariel",
       "fontSize": 19,
       "color": "#000a08"
     },
@@ -296,7 +296,7 @@
       "baseline": "bottom",
       "align": "center",
       "fontWeight": "bold",
-      "font": "avenir"
+      "font": "Ariel"
     },
     "background": "#E0E0E0"
   }
