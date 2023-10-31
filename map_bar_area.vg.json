@@ -262,25 +262,25 @@
   ],
   "config": {
     "axis": {
-      "labelFont": "Ariel",
-      "titleFont": "Ariel",
+      "labelFont": "Arial",
+      "titleFont": "Arial",
       "labelFontSize": 12,
       "titleFontSize": 13
     },
     "header": {
-      "labelFont": "Ariel",
-      "titleFont": "Ariel",
+      "labelFont": "Arial",
+      "titleFont": "Arial",
       "labelFontSize": 12
     },
     "mark": {
-      "font": "Ariel",
+      "font": "Arial",
       "fontSize": 12
     },
     "legend": {
-      "labelFont": "Ariel"
+      "labelFont": "Arial"
     },
     "title": {
-      "font": "Ariel",
+      "font": "Arial",
       "fontSize": 19,
       "color": "#000a08"
     },
@@ -296,7 +296,7 @@
       "baseline": "bottom",
       "align": "center",
       "fontWeight": "bold",
-      "font": "Ariel"
+      "font": "Arial"
     },
     "background": "#E0E0E0"
   }
